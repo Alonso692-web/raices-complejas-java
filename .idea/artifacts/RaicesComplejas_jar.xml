@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RaicesComplejas:jar">
+    <output-path>$USER_HOME$/Documents/Matemáticas avanzadas</output-path>
+    <root id="archive" name="RaicesComplejas.jar">
+      <element id="module-output" name="RaicesComplejas" />
+    </root>
+  </artifact>
+</component>
